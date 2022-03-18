@@ -1,2 +1,4 @@
 Semester 1 : IPK 3.63
 Semester 2 : IPK 3.89
+Semester 3 : IPK 3.40
+Semester 4 : IPK 4.00
